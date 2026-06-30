@@ -39,4 +39,4 @@ https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
     7. Still in Secrets, paste the value of the authtoken from NGROK to the value of this 'NGROK_AUTH_TOKEN' secret
     8. Once done, you can run the Google Colab Notebook cell that contains the NGROK code
     9. This specific cell will keep running to host the dashboard in a website
-    10. The dashboard website link will be printed in the cell prompt when it running
+    10. The dashboard website link will be printed in the cell prompt when its running
