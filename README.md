@@ -5,5 +5,10 @@ Contains files related to Retail Sales Analysis and showing interactive dashboar
 
 In this project, we selected a dataset from Kaggle, clean and prepare it (data wrangling), perform exploratory data analysis (EDA), and finally build an interactive dashboard using Python. This mirrors a real job workflow used by Data Analysts and Business Intelligence professionals.
 
+🧩 Dataset Selection
+
+The dataset source is from Kaggle. It is the Retail Sales Dataset made by Mohammad Talib. The following link takes you to the Kaggle page of this dataset:
+https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
+
 📁 File Descriptions
 
