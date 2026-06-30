@@ -4,3 +4,6 @@ Contains files related to Retail Sales Analysis and showing interactive dashboar
 🎯 Objective
 
 In this project, we selected a dataset from Kaggle, clean and prepare it (data wrangling), perform exploratory data analysis (EDA), and finally build an interactive dashboard using Python. This mirrors a real job workflow used by Data Analysts and Business Intelligence professionals.
+
+📁 File Descriptions
+
